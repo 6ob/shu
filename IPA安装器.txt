@@ -1,0 +1,6 @@
+{
+    "shu": {
+        "xml": "itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/6ob/shu/master/shu.txt",
+        "show": "https://i.loli.net/2019/05/31/5cf12c734896620002.jpg"
+    }
+}
