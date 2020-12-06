@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://it.jisu8.cn:9999/hfile/dget.file?id=07b8f526-85b1-42f8-8d74-35dcdd242e74.ipa</string> 
+<string>https://it.jisu8.cn:9999/hfile/dget.file?id=ba1b0c98-9c5a-4c21-a9c7-4b78763d0b00.ipa</string> 
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <false />
 <key>url</key>
-<string>https://it.jisu8.cn:9999/hfile/dget.file?id=d7c69aef-9ce8-4540-8c00-6a719af7d8b9</string>
+<string>https://it.jisu8.cn:9999/hfile/dget.file?id=f3a75d06-d35d-41a0-8903-883f4d056f70</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,19 +27,19 @@
 <key>needs-shine</key>
 <false />
 <key>url</key>
-<string>https://it.jisu8.cn:9999/hfile/dget.file?id=d7c69aef-9ce8-4540-8c00-6a719af7d8b9</string>
+<string>https://it.jisu8.cn:9999/hfile/dget.file?id=f3a75d06-d35d-41a0-8903-883f4d056f70</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.ustcinfo.EasySupport</string>
+<string>com.chinatelecom.anhui.smartwork</string>
 <key>bundle-version</key>
- <string>1.0.0.7</string>
+ <string>1.0.7.3</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>易支撑王占莲个人专业下载链接</string>
+<string>智慧工作王占莲专用下载链接</string>
 </dict>
 </dict>
 </array>
